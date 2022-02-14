@@ -32,3 +32,4 @@ Fonts = 'Data/Fonts'
 os.makedirs(Assets)   
 os.makedirs(Sounds)
 os.makedirs(Fonts)
+print("Made a Pygame Project")
